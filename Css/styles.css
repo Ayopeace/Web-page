@@ -1,0 +1,118 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather' , serif ;
+}
+hr{
+  border-top-style: none;
+  border-bottom-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+ width: 5%;
+ margin: 100px auto;
+}
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento' , cursive;
+  color: #66BFBF;
+line-height: 2;
+}
+
+h2 {
+  font-family: 'Monserrat' , sans-serif;
+  font-size: 2.5rem;
+  font-style: italic;
+  color: #66BFBF;
+  font-weight: normal;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Monserrat' , sans-serif;
+  color: #11999E;
+}
+
+.top-container{
+  background-color: #00005C;
+position: relative;
+padding-top: 100px;
+}
+.profile-img{
+  margin: 50px auto 50px auto;
+  border-radius: 50%
+}
+.middle-container{
+  background-color:#282A3A;
+
+}
+
+.bottom-container{
+  background-color: #0A2647;
+  padding-bottom: 50px;
+}
+
+.skill-row{
+width:  50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+}
+
+.hello{
+  width: 30%;
+  margin: auto;
+}
+.code-img{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Ankara-img{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.footer-link{
+  color: #11999E;
+  font-style: italic;
+}
+
+.btn {
+  background: #3498db;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  line-height: 10;
+}
+
+.btn:hover{
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.alright{
+color: #EAF6F6;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
